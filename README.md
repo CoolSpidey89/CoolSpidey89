@@ -16,7 +16,9 @@ Building intelligent web applications that combine data, AI and clean UI.
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
----
+
+--
+
 ## 🎯 About Me
 
 ```javascript
