@@ -17,7 +17,6 @@ Building intelligent web applications that combine data, AI and clean UI.
   </a>
 </p>
 
---
 
 ## 🎯 About Me
 
