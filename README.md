@@ -16,18 +16,21 @@ Building intelligent web applications that combine data, AI and clean UI.
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+## 🎯 About Me
 
-<!--
-**CoolSpidey89/CoolSpidey89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Om Parida";
+    this.role = "Full Stack Developer";
+    this.interests = ["Machine Learning", "Data Visualization", "Frontend Development"];
+    this.techStack = ["HTML", "React", "JavaScript", "Python"];
+    this.currentFocus = "Develop Tech Skills";
+    this.learningNext = ["Advanced ML", "MERN Stack", "PowerBI"];
+  }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  build() {
+    return "Turning ideas into scalable and intelligent applications";
+  }
+}
+```
