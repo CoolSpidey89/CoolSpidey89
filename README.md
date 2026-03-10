@@ -85,3 +85,9 @@ class Developer {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoolSpidey89&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/CoolSpidey89/CoolSpidey89/blob/output/github-contribution-grid-snake.svg)
