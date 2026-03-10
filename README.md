@@ -80,14 +80,23 @@ class Developer {
 
 ## 🚀 Featured Projects
 
-[![Smart Expense Visualizer](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight)](https://github.com/CoolSpidey89/Smart-Expense-Visualizer)
+<p align="center">
+  <a href="https://github.com/CoolSpidey89/Smart-Expense-Visualizer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/CoolSpidey89/github-profile-analyzer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=github-profile-analyzer&theme=tokyonight" />
+  </a>
+</p>
 
-[![GitHub Profile Analyzer](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=github-profile-analyzer&theme=tokyonight)](https://github.com/CoolSpidey89/github-profile-analyzer)
-
-[![Library Management System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight)](https://github.com/CoolSpidey89/Library-Management-System)
-
-[![Attrition Prediction](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight)](https://github.com/CoolSpidey89/Attrition-Prediction)
-
+<p align="center">
+  <a href="https://github.com/CoolSpidey89/Library-Management-System">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/CoolSpidey89/Attrition-Prediction">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Statistics
