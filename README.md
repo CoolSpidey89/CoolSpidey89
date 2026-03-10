@@ -78,12 +78,6 @@ class Developer {
 
 ---
 
----
-
----
-
----
-
 ## 🚀 Featured Projects
 
 [![Smart Expense Visualizer](https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight)](https://github.com/CoolSpidey89/Smart-Expense-Visualizer)
