@@ -78,27 +78,18 @@ class Developer {
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-<p align="center">
+[![Smart Expense Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/Smart-Expense-Visualizer)
 
-<a href="https://github.com/CoolSpidey89/Smart-Expense-Visualizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight&hide_border=true"/>
-</a>
+[![GitHub Profile Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=github-profile-analyzer&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/github-profile-analyzer)
 
-<a href="https://github.com/CoolSpidey89/github-profile-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=gitHub-profile-analyzer&theme=tokyonight&hide_border=true"/>
-</a>
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/Library-Management-System)
 
-<a href="https://github.com/CoolSpidey89/Library-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight&hide_border=true"/>
-</a>
+[![Attrition Prediction](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/Attrition-Prediction)
 
-<a href="https://github.com/CoolSpidey89/Attrition-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 ---
 
 ## 📊 GitHub Statistics
