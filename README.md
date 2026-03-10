@@ -93,8 +93,8 @@ class Developer {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=CoolSpidey89&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=CoolSpidey89&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CoolSpidey89&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CoolSpidey89&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
