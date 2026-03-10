@@ -86,8 +86,8 @@ class Developer {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/CoolSpidey89/GitHub-Profile-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=GitHub-Profile-Analyzer&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/CoolSpidey89/github-profile-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=gitHub-profile-analyzer&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/CoolSpidey89/Library-Management-System">
