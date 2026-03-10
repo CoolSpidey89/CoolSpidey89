@@ -80,15 +80,15 @@ class Developer {
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-[![Smart Expense Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/Smart-Expense-Visualizer)
+[![Smart Expense Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight)](https://github.com/CoolSpidey89/Smart-Expense-Visualizer)
+[![GitHub Profile Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=github-profile-analyzer&theme=tokyonight)](https://github.com/CoolSpidey89/github-profile-analyzer)
 
-[![GitHub Profile Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=github-profile-analyzer&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/github-profile-analyzer)
-
-[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/Library-Management-System)
-
-[![Attrition Prediction](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight&hide_border=true)](https://github.com/CoolSpidey89/Attrition-Prediction)
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight)](https://github.com/CoolSpidey89/Library-Management-System)
+[![Attrition Prediction](https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight)](https://github.com/CoolSpidey89/Attrition-Prediction)
 
 ---
 
