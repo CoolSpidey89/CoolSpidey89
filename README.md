@@ -17,7 +17,7 @@ Building intelligent web applications that combine data, AI and clean UI.
   </a>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Om+Parida;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Data+Driven+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Om+Parida;Full+Stack+Developer;Machine+Learning+Enthusiast;AI+Explorer" />
 </p>
 
 
