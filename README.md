@@ -78,6 +78,29 @@ class Developer {
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/CoolSpidey89/Smart-Expense-Visualizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/CoolSpidey89/GitHub-Profile-Analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=GitHub-Profile-Analyzer&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/CoolSpidey89/Library-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/CoolSpidey89/Attrition-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
